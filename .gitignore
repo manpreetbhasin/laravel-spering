@@ -1,0 +1,36 @@
+/public/storage
+/storage/*.key
+
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+
+.env.local
+
+
+# Ignore vendor directory (contains composer dependencies)
+/vendor
+
+# Ignore node_modules directory (contains npm dependencies)
+/node_modules
+
+# Ignore .env file (contains sensitive configuration)
+/.env
+
+# Ignore storage directory (contains logs, cached files, etc.)
+/storage/*.log
+/storage/app/*.key
+/storage/app/*.db
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/storage/framework/views/*
+/storage/logs/*
+
+# Ignore PHPStorm files
+.idea

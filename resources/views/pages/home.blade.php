@@ -80,7 +80,7 @@
                                 </div>
                                 <div class="offset-md-1 col-md-4 img-container">
                                     <div class="img-box">
-                                        <img src="images/slider-img.png" alt="">
+                                        <img src="images/slider-img3.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -112,7 +112,7 @@
                                 </div>
                                 <div class="offset-md-1 col-md-4 img-container">
                                     <div class="img-box">
-                                        <img src="images/slider-img.png" alt="">
+                                        <img src="images/slider-img2.png" alt="">
                                     </div>
                                 </div>
                             </div>
